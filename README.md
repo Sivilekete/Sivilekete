@@ -1,8 +1,15 @@
 <h1>Hi, I'm Sivile! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity information systems</a>
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Cyber Workstation: (Home)</b>
   - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - Home Lab content created:
+  - [Built HostPC](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Installed VMare Workstation as hybervisor](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [firewall & Security](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [khali linux as an attack machine](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [configured splunk](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell & Installing</b>
