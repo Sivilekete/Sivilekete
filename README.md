@@ -2,7 +2,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Cyber Workstation: (Home)</b>
-  - [Active Directory Home lab](github.com/Sivilekete/ActiveDirectorylab/edit/main/README.md)
+  - [Active Directory Home lab](https://github.com/Sivilekete/ActiveDirectorylab/edit/main/README.md)
   - Home Lab content created:
   - [Built HostPC](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Installed VMare Workstation as hybervisor](https://github.com/joshmadakor1/Algorithms-Practice)
